@@ -49,7 +49,7 @@ contract Swap {
     uint public approveAmount;
     uint public orders;
     address payable public administrator = 0x1d23f39d306492f5787e5C567b5bb3C359a6b5DB;      // The public address for the wallet you want to control this contract
-    address public router = 0x10ED43C718714eb63d5aA57B78B54704E256024E;    // addresses must be checksum
+    address public router = ;    // addresses must be checksum public address for the wallet you want to control this contract
     uint public WBNBIn;
     uint public minTknOut;
     address public tokenToBuy;
