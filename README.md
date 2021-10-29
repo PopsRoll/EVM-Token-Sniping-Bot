@@ -1,4 +1,5 @@
-# EVM-Token-Sniping-Bot  These are some the files I used to create a crude sniping bot for EVM's. I didn't spend very much time trying to explain the code here,
+# Simple Description 
+These are some the files I used to create a crude sniping bot for EVM's. I didn't spend very much time trying to explain the code here,
 but I wanted to share it just in case it gives somebody a little bit of insight for a project they may be trying to build. This was built in Node JS and the contracts
 were deployed using truffle. https://youtu.be/62f757RVEvU THis video is what I used to understand truffle and deploy it(EatTheBlocks is a good resource).
 The scripts that start with a B (Bonnie & Bo) are BSC scripts for sniping. Martha & Mathew are for Matic network. The Hqbsc and Hqmatic are used to configure
